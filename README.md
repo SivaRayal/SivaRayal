@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <li>Follow me on <a href="https://www.linkedin.com/in/siva-kuruva-b3b618109/">LinkedIn</a> and <a href="https://x.com/8055SIVA">X</a> to stay updated.</li>
 </ul>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=SivaRayal&color=brightgreen)
+&nbsp;![](https://komarev.com/ghpvc/?username=SivaRayal&color=blue)
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SivaRayal&show_icons=true&locale=en" alt="SivaRayal" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaRayal&layout=compact&langs_count=10&show_icons=true&theme=transparent" />
