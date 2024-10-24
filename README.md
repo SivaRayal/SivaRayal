@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li>Checkout my GitHub repositories on <a href = "https://github.com/SivaRayal/Java">Java MAANG+ DSA Preparation</a>, <a href = "https://github.com/SivaRayal/MuzixApp">Songs Wishlisting Muzix App</a> and <a href = "https://github.com/SivaRayal/MuzixAPI"> Muzix App Backend - Springboot Microservices with Docker</a>.</li>
   <li>Join my Discord Server for peer-learning on DSA-SD <a href="https://discord.gg/trzjgD2DAG">Discord DSA-SD Study Group</a></li>
   <li>Checkout my <a href="https://www.youtube.com/@SIVAKURUVA/videos">YouTube Channel</a> for more in-depth content.</li>
-  <li>Follow me on <a href="https://www.linkedin.com/in/siva-kuruva-b3b618109/">LinkedIn</a> and <a href="https://x.com/8055SIVA">X</a> to stay updated.</li>
+  <li>Follow me on <a href="https://www.linkedin.com/in/sivasaikrishna-kuruva/">LinkedIn</a> and <a href="https://x.com/8055SIVA">X</a> to stay updated.</li>
 </ul>
 
 &nbsp;![](https://komarev.com/ghpvc/?username=SivaRayal&color=blue)
